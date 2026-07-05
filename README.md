@@ -34,42 +34,16 @@ Interests:
 ---
 
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💻 Languages
-
-Java<br>
-Python<br>
-JavaScript<br>
-C++
-
-</td>
-<td align="center" width="33%">
-
-### 🌐 Frontend
-
-HTML5<br>
-CSS3<br>
-Bootstrap<br>
-Responsive Design
-
-</td>
-<td align="center" width="33%">
-
-### ⚙️ Platforms
-
-Appian<br>
-ProcessFactorial<br>
-Power Platform<br>
-REST APIs
-
-</td>
-</tr>
-</table>
+| Category | Technologies |
+|-----------|-------------|
+| 💻 Languages | Java, Python, JavaScript, C++ |
+| 🌐 Frontend | HTML5, CSS3, Bootstrap, Responsive Web Design |
+| ⚙️ Enterprise Platforms | Appian, ProcessFactorial, Microsoft Power Platform |
+| ☁️ Cloud | AWS, Google Cloud Platform |
+| 🛠️ Tools | Git, GitHub, VS Code |
+| 🎯 Specializations | Enterprise Application Development, Workflow Automation, Business Process Management, Form Development, System Integration |
 
 ---
 
@@ -122,18 +96,12 @@ REST APIs
 
 ## 🎯 Core Strengths
 
-<div align="center">
-
+<div align="left">
 🔹 Enterprise Application Development
-
 🔹 Low-Code / No-Code Solutions
-
 🔹 Business Process Automation
-
 🔹 Workflow Optimization
-
 🔹 Responsive Web Development
-
 🔹 Cloud & Emerging Technologies
 
 </div>
